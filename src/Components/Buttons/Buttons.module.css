@@ -1,0 +1,44 @@
+
+.container{
+    width: 550px;
+    margin: 0 auto;
+    position: fixed;
+    left: 30%;
+    bottom: 11%;
+}
+
+.buttons{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.btn{
+    width: 100px;
+    height: 22px;
+    background-color:lightblue; /* Green */
+    border: none;
+    color: beige;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px 5px 5px 15px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+
+}
+
+.btn:hover{
+    background-color: whitesmoke;
+    color: lightblue;
+    font-size: 18px;
+    transition: .3s;
+}

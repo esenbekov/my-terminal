@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 15px;
+    color: black;
+}
+
+.catalog{
+
+}
+/*
+.features{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.features__item img{
+
+    justify-content: space-between;
+    margin: 20px 15px;
+    width: 100px;
+    height: auto;
+}*/
